@@ -8,7 +8,7 @@ window.LOVE_STORY = {
     navReasons: "Reasons I love you",
     navQuestion: "The big question",
     heroPrefix: "Hey,",
-    heroSubtitle: "Happy Egyption Valentine's Day ya 7abybty w yarab a4ofeek orayeb keda 3a4an mesh hasebek tany 😂❤️❤️❤️❤️",
+    heroSubtitle: "Happy Egyptian Valentine's Day ya 7abybty w yarab a4ofeek orayeb keda 3a4an mesh hasebek tany 😂❤️❤️❤️❤️",
     heroCta: "See our favorite moments",
     from: "with love,",
     forever: "AND A DAY",
